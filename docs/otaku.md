@@ -92,6 +92,11 @@ Lista que engloba tudo referente à cultura japonesa, embora possa ter também s
 - Entre na comunidade do [discord](https://discord.gg/ECeSaqS4) para conversar e ficar por dentro das atualizações. 
 - [Resultados de segurança da URL](https://www.urlvoid.com/scan/betterflix.vercel.app)
 
+#### ▶️ [AnimesBrasil](https://animesbrasil.to)
+
+- Animes completos , qualidade e poucos anuncios .
+- [Resultados de segurança da URL](https://www.urlvoid.com/scan/animesbrasil.to/)
+
 ### 📥 ➜ Download Direto
 
 ---
